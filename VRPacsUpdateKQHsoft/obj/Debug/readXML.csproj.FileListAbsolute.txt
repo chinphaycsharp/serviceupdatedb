@@ -1,0 +1,62 @@
+D:\Laptrinh\webAPI\readXML\bin\Debug\readXML.exe.config
+D:\Laptrinh\webAPI\readXML\bin\Debug\readXML.exe
+D:\Laptrinh\webAPI\readXML\bin\Debug\readXML.pdb
+D:\Laptrinh\webAPI\readXML\bin\Debug\MySql.Data.DLL
+D:\Laptrinh\webAPI\readXML\bin\Debug\Google.Protobuf.dll
+D:\Laptrinh\webAPI\readXML\bin\Debug\Renci.SshNet.dll
+D:\Laptrinh\webAPI\readXML\bin\Debug\BouncyCastle.Crypto.dll
+D:\Laptrinh\webAPI\readXML\obj\Debug\readXML.csprojAssemblyReference.cache
+D:\Laptrinh\webAPI\readXML\obj\Debug\readXML.csproj.CoreCompileInputs.cache
+D:\Laptrinh\webAPI\readXML\obj\Debug\readXML.csproj.CopyComplete
+D:\Laptrinh\webAPI\readXML\obj\Debug\readXML.exe
+D:\Laptrinh\webAPI\readXML\obj\Debug\readXML.pdb
+D:\Laptrinh\C#\webAPI\readXML\bin\Debug\readXML.exe.config
+D:\Laptrinh\C#\webAPI\readXML\bin\Debug\readXML.exe
+D:\Laptrinh\C#\webAPI\readXML\bin\Debug\readXML.pdb
+D:\Laptrinh\C#\webAPI\readXML\bin\Debug\MySql.Data.dll
+D:\Laptrinh\C#\webAPI\readXML\bin\Debug\Newtonsoft.Json.dll
+D:\Laptrinh\C#\webAPI\readXML\bin\Debug\Google.Protobuf.dll
+D:\Laptrinh\C#\webAPI\readXML\bin\Debug\Zstandard.Net.dll
+D:\Laptrinh\C#\webAPI\readXML\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Laptrinh\C#\webAPI\readXML\bin\Debug\BouncyCastle.Crypto.dll
+D:\Laptrinh\C#\webAPI\readXML\bin\Debug\Ubiety.Dns.Core.dll
+D:\Laptrinh\C#\webAPI\readXML\bin\Debug\Renci.SshNet.dll
+D:\Laptrinh\C#\webAPI\readXML\bin\Debug\System.Buffers.dll
+D:\Laptrinh\C#\webAPI\readXML\bin\Debug\K4os.Compression.LZ4.dll
+D:\Laptrinh\C#\webAPI\readXML\bin\Debug\K4os.Hash.xxHash.dll
+D:\Laptrinh\C#\webAPI\readXML\bin\Debug\System.Memory.dll
+D:\Laptrinh\C#\webAPI\readXML\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Laptrinh\C#\webAPI\readXML\bin\Debug\System.Numerics.Vectors.dll
+D:\Laptrinh\C#\webAPI\readXML\bin\Debug\MySql.Data.xml
+D:\Laptrinh\C#\webAPI\readXML\bin\Debug\Newtonsoft.Json.xml
+D:\Laptrinh\C#\webAPI\readXML\obj\Debug\readXML.csprojAssemblyReference.cache
+D:\Laptrinh\C#\webAPI\readXML\obj\Debug\readXML.exe.config
+D:\Laptrinh\C#\webAPI\readXML\obj\Debug\readXML.csproj.CoreCompileInputs.cache
+D:\Laptrinh\C#\webAPI\readXML\obj\Debug\readXML.csproj.CopyComplete
+D:\Laptrinh\C#\webAPI\readXML\obj\Debug\readXML.exe
+D:\Laptrinh\C#\webAPI\readXML\obj\Debug\readXML.pdb
+C:\Users\ok babe\Desktop\service-master\VRPacsUpdateKQHsoft\VRPacsUpdateKQHsoft\bin\Debug\readXML.exe.config
+C:\Users\ok babe\Desktop\service-master\VRPacsUpdateKQHsoft\VRPacsUpdateKQHsoft\bin\Debug\readXML.exe
+C:\Users\ok babe\Desktop\service-master\VRPacsUpdateKQHsoft\VRPacsUpdateKQHsoft\bin\Debug\readXML.pdb
+C:\Users\ok babe\Desktop\service-master\VRPacsUpdateKQHsoft\VRPacsUpdateKQHsoft\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ok babe\Desktop\service-master\VRPacsUpdateKQHsoft\VRPacsUpdateKQHsoft\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ok babe\Desktop\service-master\VRPacsUpdateKQHsoft\VRPacsUpdateKQHsoft\obj\Debug\readXML.csproj.CopyComplete
+C:\Users\ok babe\Desktop\service-master\VRPacsUpdateKQHsoft\VRPacsUpdateKQHsoft\obj\Debug\readXML.exe
+C:\Users\ok babe\Desktop\service-master\VRPacsUpdateKQHsoft\VRPacsUpdateKQHsoft\obj\Debug\readXML.pdb
+C:\Users\ok babe\Desktop\service-master\VRPacsUpdateKQHsoft\VRPacsUpdateKQHsoft\bin\Debug\MySql.Data.dll
+C:\Users\ok babe\Desktop\service-master\VRPacsUpdateKQHsoft\VRPacsUpdateKQHsoft\bin\Debug\MySql.Data.xml
+D:\Laptrinh\C#\VRPacsUpdateKQHsoft\VRPacsUpdateKQHsoft\bin\Debug\readXML.exe.config
+D:\Laptrinh\C#\VRPacsUpdateKQHsoft\VRPacsUpdateKQHsoft\bin\Debug\readXML.exe
+D:\Laptrinh\C#\VRPacsUpdateKQHsoft\VRPacsUpdateKQHsoft\bin\Debug\readXML.pdb
+D:\Laptrinh\C#\VRPacsUpdateKQHsoft\VRPacsUpdateKQHsoft\bin\Debug\MySql.Data.dll
+D:\Laptrinh\C#\VRPacsUpdateKQHsoft\VRPacsUpdateKQHsoft\bin\Debug\Newtonsoft.Json.dll
+D:\Laptrinh\C#\VRPacsUpdateKQHsoft\VRPacsUpdateKQHsoft\bin\Debug\Google.Protobuf.dll
+D:\Laptrinh\C#\VRPacsUpdateKQHsoft\VRPacsUpdateKQHsoft\bin\Debug\BouncyCastle.Crypto.dll
+D:\Laptrinh\C#\VRPacsUpdateKQHsoft\VRPacsUpdateKQHsoft\bin\Debug\Renci.SshNet.dll
+D:\Laptrinh\C#\VRPacsUpdateKQHsoft\VRPacsUpdateKQHsoft\bin\Debug\MySql.Data.xml
+D:\Laptrinh\C#\VRPacsUpdateKQHsoft\VRPacsUpdateKQHsoft\bin\Debug\Newtonsoft.Json.xml
+D:\Laptrinh\C#\VRPacsUpdateKQHsoft\VRPacsUpdateKQHsoft\obj\Debug\readXML.csprojAssemblyReference.cache
+D:\Laptrinh\C#\VRPacsUpdateKQHsoft\VRPacsUpdateKQHsoft\obj\Debug\readXML.csproj.CoreCompileInputs.cache
+D:\Laptrinh\C#\VRPacsUpdateKQHsoft\VRPacsUpdateKQHsoft\obj\Debug\readXML.csproj.CopyComplete
+D:\Laptrinh\C#\VRPacsUpdateKQHsoft\VRPacsUpdateKQHsoft\obj\Debug\readXML.exe
+D:\Laptrinh\C#\VRPacsUpdateKQHsoft\VRPacsUpdateKQHsoft\obj\Debug\readXML.pdb
